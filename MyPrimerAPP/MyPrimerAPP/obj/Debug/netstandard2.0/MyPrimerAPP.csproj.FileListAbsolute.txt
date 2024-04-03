@@ -1,0 +1,15 @@
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\bin\Debug\netstandard2.0\MyPrimerAPP.deps.json
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\bin\Debug\netstandard2.0\MyPrimerAPP.dll
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\bin\Debug\netstandard2.0\ref\MyPrimerAPP.dll
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\bin\Debug\netstandard2.0\MyPrimerAPP.pdb
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\MyPrimerAPP.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\MyPrimerAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\MyPrimerAPP.AssemblyInfoInputs.cache
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\MyPrimerAPP.AssemblyInfo.cs
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\MyPrimerAPP.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\MyPrimerAPP.dll
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\refint\MyPrimerAPP.dll
+C:\Users\Alumno\Downloads\MyPrimerAPP\MyPrimerAPP\MyPrimerAPP\obj\Debug\netstandard2.0\MyPrimerAPP.pdb
